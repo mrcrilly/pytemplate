@@ -1,0 +1,4 @@
+pytemplate
+==========
+
+Template Python project
